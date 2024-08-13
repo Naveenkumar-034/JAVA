@@ -7,7 +7,6 @@
 - PYTHON
 - DRAWING
 - LEARNER
-- ...
 
 ## 🔭 Current Projects
 - [Project 1]: [Brief description]
