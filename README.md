@@ -6,6 +6,7 @@
 ## 🛠 Skill
 - PYTHON
 - DRAWING
+- LEARNER
 - ...
 
 ## 🔭 Current Projects
